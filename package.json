@@ -1,0 +1,19 @@
+{
+  "name": "is-zoom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmfe/is-zoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmfe/is-zoom/issues"
+  },
+  "homepage": "https://github.com/gmfe/is-zoom#readme"
+}
